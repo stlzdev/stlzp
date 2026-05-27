@@ -1,4 +1,4 @@
-### Andrew S. Wong 
+### Andrew Stellis Wong 
 
 BCI Software Engineer [@Blackrock Neurotech](https://blackrockneurotech.com?ref=github-stlzp)<br>
 AI Engineer [@Sound of Earth](https://soundof.earth?ref=github-stlzp)<br>
