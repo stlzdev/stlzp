@@ -12,4 +12,6 @@ In my free time, I enjoy reading philosophy, making videos and eating eggs.
 Work: ```awong@blackrockneuro.com``` <br>
 Research/General: ```andrewzx@upenn.edu```
 
+![GitHub stats](https://github-readme-stats-7pc2idktc-andrew-wongs-projects-718d310b.vercel.app/api?username=stlzdev&show_icons=true)
 [![Top Langs](https://github-readme-stats-7pc2idktc-andrew-wongs-projects-718d310b.vercel.app/api/top-langs/?username=stlzdev&hide=jupyter%20notebook&layout=pie)](https://github.com/stlzdev)
+
