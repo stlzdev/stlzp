@@ -2,12 +2,12 @@
 
 #### Neuro Engineer and Researcher building software and brain tech
 
-BCI Software Engineer at [Blackrock Neurotech](https://blackrockneurotech.com?ref=github-stlzp);<br>
-AI Engineer [Sound of Earth](https://soundof.earth?ref=github-stlzp);<br>
+BCI Software Engineer @ [Blackrock Neurotech](https://blackrockneurotech.com?ref=github-stlzp);<br>
+AI Engineer @ [Sound of Earth](https://soundof.earth?ref=github-stlzp);<br>
 
-In my free time, 
+In my free time, I enjoy reading philosophy, making videos and eating eggs.
 
 Work: ```awong@blackrockneuro.com```
 Research/General: ```andrewzx@upenn.edu```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stlzp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stlzp)](https://github.com/stlzp/github-readme-stats)
