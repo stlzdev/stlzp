@@ -10,4 +10,4 @@ In my free time, I enjoy reading philosophy, making videos and eating eggs.
 Work: ```awong@blackrockneuro.com```
 Research/General: ```andrewzx@upenn.edu```
 
-[![Top Langs](https://your-vercel-url.vercel.app/api/top-langs/?username=stlzp)](https://github.com/stlzp)
+[![Top Langs](github-readme-stats-7pc2idktc-andrew-wongs-projects-718d310b.vercel.app)](https://github.com/stlzp)
