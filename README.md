@@ -4,7 +4,7 @@ BCI Software Engineer [@Blackrock Neurotech](https://blackrockneurotech.com?ref=
 AI Engineer [@Sound of Earth](https://soundof.earth?ref=github-stlzp)<br>
 MSE Bioengineering and BSE Artificial Intelligence + Neuroscience @University of Pennsylvania
 
-I am an engineer and researcher building software and brain tech. My research specialty is in the neural mechanisms of memory encoding and statistical learning. My tech projects revolve around the use of computer vision, machine learning and neural network modelling to build powerful technologies the brain-computer revolution. <br>
+I am an engineer and researcher building software and brain tech. My research specialty is in the neural mechanisms of memory encoding and statistical learning. My tech projects revolve around the use of computer vision, machine learning and neural network modelling to build powerful technologies for the brain-computer revolution. <br>
 
 In my free time, I enjoy reading philosophy, making videos and eating eggs.
 
