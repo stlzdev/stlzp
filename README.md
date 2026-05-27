@@ -1,4 +1,4 @@
-### About 
+### Andrew S. Wong 
 
 #### Neuro Engineer and Researcher building software and brain tech
 
