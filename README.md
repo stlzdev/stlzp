@@ -1,7 +1,5 @@
 ### Andrew S. Wong 
 
-#### Neuro Engineer and Researcher building software and brain tech
-
 BCI Software Engineer @ [Blackrock Neurotech](https://blackrockneurotech.com?ref=github-stlzp);<br>
 AI Engineer @ [Sound of Earth](https://soundof.earth?ref=github-stlzp);<br>
 
