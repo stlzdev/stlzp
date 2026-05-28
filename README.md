@@ -8,7 +8,7 @@ I'm an engineer and researcher building the next generation of neurotechnology. 
 
 In my free time, I enjoy reading philosophy, making videos and eating eggs.
 
-Happy to connect: ```andrewzx@upenn.edu```
+Connect with me at ```andrewzx@upenn.edu```
 
 ## Skills
 
