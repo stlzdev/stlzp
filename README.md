@@ -12,6 +12,7 @@ Happy to connect: ```andrewzx@upenn.edu```
 
 ## Skills
 
+|  |  |
 |---|---|
 | **Languages** | Python · Go · Java · JavaScript / TypeScript |
 | **Backend & Hardware** | Node.js · Linux · Git · Arduino |
