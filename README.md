@@ -16,7 +16,7 @@ Connect with me at ```andrewzx@upenn.edu```
 |---|---|
 | **Programming** | Python · Go · Java · JavaScript / TypeScript |
 | **Backend & Hardware** | Node.js · Linux · Git · Arduino |
-| **Data Science & ML** | PyTorch · Hugging Face · NumPy · SciPy · Pandas · scikit-learn |
+| **Data & ML** | PyTorch · Hugging Face · SQL · Polars · NumPy · SciPy · Pandas · scikit-learn |
 | **Frontend** | React Native · HTML/CSS · Vite · Next.js · Tailwind |
 | **Languages** | English (native) · Cantonese (native) · Mandarin (fluent) · German (conversational) · Indonesian (beginner) |
 | **Interests** | Memory athletics · Morse code · Videography |
