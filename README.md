@@ -19,7 +19,7 @@ Connect with me at ```andrewzx@upenn.edu```
 | **Data & ML** | PyTorch · Hugging Face · SQL · Polars · NumPy · SciPy · Pandas |
 | **Frontend** | React Native · HTML/CSS · Vite · Next.js · Tailwind |
 | **Languages** | English (native) · Cantonese (native) · Mandarin (fluent) · German (conversational) · Indonesian (beginner) |
-| **Non-technical** | Memory athletics · Morse code · Videography |
+| **Non-technical** | Memory athletics · Morse code · Videography · Endurance running |
 
 ## Stats
 ![GitHub stats](https://github-readme-stats-7pc2idktc-andrew-wongs-projects-718d310b.vercel.app/api?username=stlzdev&show_icons=true&hide=stars,issues&include_all_commits=true) <br>
